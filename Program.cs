@@ -52,6 +52,7 @@ namespace OOPS
             s3.display();
             Console.WriteLine("Welocme to Hyd");
             Console.WriteLine("goodbye to hyd");
+            Console.WriteLine("going to goa");
         }
 
     }
