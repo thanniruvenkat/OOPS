@@ -51,6 +51,7 @@ namespace OOPS
             s3.insert(104, "raju");
             s3.display();
             Console.WriteLine("Welocme to Hyd");
+            Console.WriteLine("goodbye to hyd");
         }
 
     }
