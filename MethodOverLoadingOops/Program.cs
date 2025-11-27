@@ -420,7 +420,9 @@ using System.Xml;
 //            int eq = Calculator.Equal(4, 4);
 //            string eqs = Calculator1.Equal("interviewer", "Happy");
 //            Console.WriteLine(eqs);
-//            Console.WriteLine(eq);
+//            Console.WriteLine(eq)
+
+Console.WriteLine("hello");
          
 
 //        }
